@@ -1,0 +1,30 @@
+[
+	{
+		"_id": "6066600d9229633b54ac3048",
+		"make": "Toyota",
+		"model": "camry",
+		"owner": {
+			"cars": [
+				{
+					"_id": "6066600d9229633b54ac3048",
+					"make": "Toyota",
+					"model": "camry"
+				}
+			],
+			"_id": "6066600d9229633b54ac3047",
+			"name": "mina",
+			"age": 21,
+			"__v": 1
+		},
+		"__v": 0
+	},
+	{
+		"cars": [
+			{ "_id": "6066600d9229633b54ac3048", "make": "Toyota", "model": "camry" }
+		],
+		"_id": "6066600d9229633b54ac3047",
+		"name": "mina",
+		"age": 21,
+		"__v": 1
+	}
+]
